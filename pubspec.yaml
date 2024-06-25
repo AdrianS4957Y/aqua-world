@@ -1,0 +1,11 @@
+name: aquaWorld
+description: No comment
+
+publish_to: none
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.4.0
+dependencies:
+  uuid: ^4.4.0
